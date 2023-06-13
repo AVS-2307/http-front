@@ -1,5 +1,3 @@
-# [http-front](https://github.com/AVS-2307/http-front.git)
+![CI](https://github.com/AVS-2307/http-front/actions/workflows/web.yml/badge.svg)
 
-[![Build status]()
-
-[Link]()
+[front](https://avs-2307.github.io/http-front/)
